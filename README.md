@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> [Codeberg](https://codeberg.org/freeplay) | From now on, I'll be using [Codeberg](https://codeberg.org/freeplay). I won't be using GitHub unless I need to.
+
+> [My Website!](https://freeplay.codeberg.page/) | Find my other stuffs n' things
