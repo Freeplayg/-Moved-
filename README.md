@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> [Codeberg](https://codeberg.org/freeplay) | From now on, I'll be using [Codeberg](https://codeberg.org/freeplay). I won't be using GitHub unless I need to.
+> [**Codeberg**](https://codeberg.org/freeplay) | From now on, I'll be using [Codeberg](https://codeberg.org/freeplay). I won't be using GitHub unless I need to.
 
-> [My Website!](https://freeplay.codeberg.page/) | Find my other stuffs n' things
+> [**My Website!**](https://freeplay.codeberg.page/) | Find my other stuffs n' things
